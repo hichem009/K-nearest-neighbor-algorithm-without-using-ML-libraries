@@ -1,4 +1,6 @@
 import math 
+
+print("this algorithm is made by student named Hichem Aouissaoui")
 print("vous utilisez la division euclidienne")
 k=int(input("donner k"))
 array  = [["Mohamed", 35, 350 , 3 , "non"],
